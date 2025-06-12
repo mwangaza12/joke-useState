@@ -53,6 +53,7 @@ function App() {
 
   return (
     <>
+    <h2>Jokes 😠</h2>
       <input
         type="text"
         style={{padding: "10px"}}
